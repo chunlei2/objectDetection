@@ -161,6 +161,9 @@ We only need to replace the fourth code cell:
   
   ```
   
+# Example:
+![Image of Yaktocat](https://github.com/chunlei2/objectDetection/blob/master/example.png)
+  
 # References:
 https://towardsdatascience.com/creating-your-own-object-detector-ad69dda69c85
 
